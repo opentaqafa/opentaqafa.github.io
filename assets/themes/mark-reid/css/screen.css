@@ -194,11 +194,11 @@ ul.compact li a {
 /* @end */
 
 /* @group Header */
-#header, #header a { color: silver; }
-#header .hover { color: transparent; }
+#header, #header a { color: black; }
+#header .hover { color: silver; }
 #header:hover a { color: black; text-shadow: #aaa 2px 2px 3px;}
 #header:hover a:hover { text-decoration: none; }
-#header a:hover .hover { color: silver; }
+#header a:hover .hover { color: black; }
 #header {
 	position: relative;
 	font-variant: small-caps;
@@ -231,8 +231,8 @@ ul.compact li a {
 	display: inline;
 }
 #header ul li a:hover {
-	color: blue;
-	border-bottom: 2px solid blue;
+	color: red;
+	border-bottom: 2px solid red;
 }
 #header .byline {
 	color: silver;
