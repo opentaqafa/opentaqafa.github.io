@@ -547,3 +547,50 @@ img.maruku-png { }
 	color:#FFF;
 }
 
+/*CSS red/green buttons */
+.w_button {
+        background:url(http://www.videos.com/templates/default/images/w_green.gif) no-repeat right bottom;
+        height:42px;
+        line-height:42px !important;
+        display:inline-block;
+        font-size:18px;
+        text-decoration:none;
+        padding-right:10px;
+        margin:5px;
+        cursor:pointer;
+        cursor:hand;
+        font-family:Arial, Tahoma, sans-serif;
+        filter:alpha(opacity=100);
+}
+.w_button ins {
+        background:url(http://www.videos.com/templates/default/images/w_green.gif) no-repeat left bottom;
+        font-size:18px;
+        font-weight:bold;
+        text-decoration:none;
+        color: #fff;
+        height:42px;
+        line-height:42px;
+        display:inline-block;
+        padding:0 20px 0 30px;
+}
+.w_button:hover {
+        background-position:right top;
+        text-decoration:underline;
+}
+.w_button:hover ins {
+        background-position:left top;
+        text-decoration:underline;
+}
+.w_red, .w_red ins {
+        background-image:url(http://www.videos.com/templates/default/images/w_red.gif);
+        font-size:14px;
+        text-decoration:none;
+}
+.w_button, .w_button ins {
+        vertical-align:bottom;
+        font-size:18px;
+        font-weight:bold;
+}
+.w_red, .w_red ins {
+        font-size:14px;
+}
