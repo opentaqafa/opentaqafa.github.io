@@ -583,7 +583,7 @@ img.maruku-png { }
 }
 .w_red, .w_red ins {
         background-image:url(http://www.videos.com/templates/default/images/w_red.gif);
-        font-size:14px;
+        font-size:18px;
         text-decoration:none;
 }
 .w_button, .w_button ins {
@@ -592,5 +592,5 @@ img.maruku-png { }
         font-weight:bold;
 }
 .w_red, .w_red ins {
-        font-size:14px;
+        font-size:18px;
 }
