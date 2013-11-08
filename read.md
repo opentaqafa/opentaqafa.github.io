@@ -9,7 +9,7 @@ description: ""
 
 
 <!-- HTML Button  code -->
-<div><a class="w_button" href="download.html" onclick="Save('O18','Y');Save('AF','N');Enter('n');window.location='readonline.html';return false;"><ins>حمل الكتاب</ins></a> </div>
+<div><a class="w_button" href="/assets/downloads/ccbook.pdf" onclick="Save('O18','Y');Save('AF','N');Enter('n');window.location='readonline.html';return false;"><ins>حمل الكتاب</ins></a> </div>
 <!--/ HTML Button code -->
 
 بعض الحقوق محفوظة 2013 
